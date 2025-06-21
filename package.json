@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/rickyriccs/react-node-tasks/issues"
   },
-  "homepage": "https://github.com/rickyriccs/react-node-tasks#readme",
+  "homepage": ".",
   "description": "",
   "dependencies": {
     "react": "^19.1.0",
